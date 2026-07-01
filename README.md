@@ -1,6 +1,8 @@
 ## Hi, I'm Bekzat
-### Data Science and AI
+### ML Engineer 
 
-- 🔭 I’m currently working on Medical Image Classificaiton Reseach 
-- 👯 I’m looking to collaborate on projects involving AI in Medicine 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/bekzat-nurlanbekova-9ab06261/">linkedin</a> 
+Focused on machine learning and AI. Interested in machine learning research, computer vision, and developing reliable, scalable AI systems. This GitHub showcases my projects, experiments, and research work.
+
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/bekzat-nurlanbekova-9ab06261/">linkedin</a>
+<a href="https://portfolio-bekzat-kb.vercel.app/index.html">portfolio</a>
+
